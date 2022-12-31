@@ -46,7 +46,7 @@ In step 2, Connectivity between the client and Domain Controller was ensured by 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2IOcldY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In step 3, Active Directory Domain Services was Installed by logging in to DC-1. Promoted as a DC: a new forest as mydomain.com was setup. Remote Desktop was Restarted and logged back into DC-1 as user: mydomain.com\labuser.
@@ -54,7 +54,7 @@ In step 3, Active Directory Domain Services was Installed by logging in to DC-1.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/E0UBrRu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In step 4, Remote Desktop was setup for non-administrative users jane_admin was used a the user name,
