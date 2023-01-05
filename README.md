@@ -20,9 +20,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create Resource Groups and Virtual Machines
-- 
-- Step 3
-- Step 4
+- Enable Firewall and Test connectivity 
+- Setup Domain Contoller in windows "Server Manger"
+- Run Script and Add users to Active Directory 
 
 <h2>Deployment and Configuration Steps</h2>
 
